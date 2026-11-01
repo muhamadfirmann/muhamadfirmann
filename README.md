@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 Saat ini saya sedang belajar pemrograman.<br>- 👯 Saya ingin berkolaborasi dalam proyek pengembangan web open-source.<br>- 🤝 Saya mencari bantuan terkait desain sistem tingkat lanjut dan AWS.
+<br>- 🔭 Saat ini saya sedang belajar pemrograman.<br>- 👯 Saya ingin berkolaborasi dalam proyek pengembangan web open-source.<br>- 🤝 Saya mencari bantuan terkait desain sistem tingkat lanjut dan AWS.
 
 
 # 💻 Tech Stack:
